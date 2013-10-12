@@ -178,12 +178,12 @@ public class Editor extends JFrame {
 			text.setForeground(Color.green);
 		if(colors.equals("Синий"))
 			text.setForeground(Color.blue);
-		if(colors.equals("Пумпурный"))
-			text.setForeground(Color.magenta);
-		if(colors.equals("Голубой"))
-			text.setForeground(Color.cyan);
-		if(colors.equals("Желтый"))
+		if(colors.equals("Золотой"))
 			text.setForeground(Color.yellow);
+		if(colors.equals("Небесный"))
+			text.setForeground(Color.cyan);
+		if(colors.equals("Пурпурный"))
+			text.setForeground(Color.magenta);
 		
 		fontstyle = Font.PLAIN;
 		
